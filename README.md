@@ -75,4 +75,4 @@ This project is licensed under the [Your License] - see [LICENSE.md](LICENSE.md)
 ## Acknowledgements
 
 - Recognition to the Alteryx community for tools and support
-- Appreciation to Dr. Ebuka Ibke.
+- Appreciation to Dr. Ebuka Ibeke.
